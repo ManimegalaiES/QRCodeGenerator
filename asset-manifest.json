@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManimegalaiES/QRCodeGenerator.git/static/css/main.00ab8628.css",
+    "main.js": "/ManimegalaiES/QRCodeGenerator.git/static/js/main.0b038383.js",
+    "index.html": "/ManimegalaiES/QRCodeGenerator.git/index.html",
+    "main.00ab8628.css.map": "/ManimegalaiES/QRCodeGenerator.git/static/css/main.00ab8628.css.map",
+    "main.0b038383.js.map": "/ManimegalaiES/QRCodeGenerator.git/static/js/main.0b038383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ab8628.css",
+    "static/js/main.0b038383.js"
+  ]
+}
